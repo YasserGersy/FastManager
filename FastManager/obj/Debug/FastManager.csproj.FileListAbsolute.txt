@@ -1,0 +1,10 @@
+C:\Users\yasser\Desktop\FastManager\FastManager\bin\Debug\FastManager.exe
+C:\Users\yasser\Desktop\FastManager\FastManager\bin\Debug\FastManager.pdb
+C:\Users\yasser\Desktop\FastManager\FastManager\obj\Debug\FastManager.csprojResolveAssemblyReference.cache
+C:\Users\yasser\Desktop\FastManager\FastManager\obj\Debug\FastManager.Form1.resources
+C:\Users\yasser\Desktop\FastManager\FastManager\obj\Debug\FastManager.Properties.Resources.resources
+C:\Users\yasser\Desktop\FastManager\FastManager\obj\Debug\FastManager.csproj.GenerateResource.Cache
+C:\Users\yasser\Desktop\FastManager\FastManager\obj\Debug\FastManager.exe
+C:\Users\yasser\Desktop\FastManager\FastManager\obj\Debug\FastManager.pdb
+C:\Users\yasser\Desktop\FastManager\FastManager\obj\Debug\FastManager.UserINP.resources
+C:\Users\yasser\Desktop\FastManager\FastManager\obj\Debug\FastManager.ExLoader.resources
