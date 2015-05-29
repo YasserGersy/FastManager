@@ -8,8 +8,6 @@ Tested on windows 7/8/8.1<br />
 
 #<h2> What this program does? </h2>
 
-it enables you to  (choose one of these options <br />
-Download only installer from <br />
 1- Delete all Files of a certain directory<br />
 2- Delete all shortcuts<br />
 3- Delete all text files<br />
@@ -21,9 +19,8 @@ Download only installer from <br />
 9- Delete all web pages <br />
 10 Delete all files with certain size<br /> 
 <br />
-==============================================<br />x
+==============================================<br />
 
-it enables you to  (choose one of these options <br />
 
 <br /> 
 Here is a screenshot
