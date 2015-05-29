@@ -1,7 +1,10 @@
 # FastManager<br />
 An easy and simple way to edit multiple files in one click<br />
 
-this is a windows application
+
+#<h2> Environment</h2>
+this is a windows application<br />
+Tested on windows 7/8/8.1<br />
 
 #<h2> What this program does? </h2>
 
