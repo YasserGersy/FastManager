@@ -23,7 +23,7 @@ Tested on windows 7/8/8.1<br />
 
 <h2>Download</h2>
 <a href='http://www.softpedia.com/get/System/File-Management/Fast-Manager.shtml' >
-Sodtpedia
+Softpedia
 </a>
 
 <br /> 
